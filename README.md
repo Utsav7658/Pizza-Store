@@ -1,4 +1,4 @@
-# ReactJS-Pizza-with-Crypto-Wallet
+# Pizza Store
  E commerce Pizza Shop with Crypto Trading using ethereum 
 
 
